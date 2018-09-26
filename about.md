@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+ I am currently a PhD candidate.
+ ### Education Experience
+ 2016.09 - Now : PhD candidate at [National Laboratory of Pattern Recognition](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml), [Institute of Automation, Chinese Academy of Science](http://english.ia.cas.cn/)
+ 2012.09 - 2016.06 : I recived my bachelor degree in computer science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+ ### Contact me
+ [dereklee9312@gmail.com](mailto:dereklee9312@gmail.com)
